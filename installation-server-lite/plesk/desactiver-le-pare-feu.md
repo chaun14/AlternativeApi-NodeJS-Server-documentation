@@ -38,3 +38,7 @@ Attention cela peut rendre votre site plus vulnérable à des actes malveillants
 
 ![S&#xE9;lectionnez &quot;D&#xE9;tection uniquement&quot; puis cliquez sur OK](../../.gitbook/assets/gyaz9wf-1.png)
 
+{% hint style="success" %}
+Normalement tout devrait être réparé
+{% endhint %}
+
