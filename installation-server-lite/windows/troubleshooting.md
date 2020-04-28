@@ -20,7 +20,7 @@ Error: Cannot find module 'colors'
 
 ## Le launcher ne se connecte pas au serveur alors que la console est ouverte?
 
---&gt; Mettez bien en url `http://localhost:2332/` ou `http://127.0.0.1/` dans gameLinks 
+--&gt; Mettez bien en url `http://localhost:2332/` ou `http://127.0.0.1:2332/` dans gameLinks 
 
 
 
