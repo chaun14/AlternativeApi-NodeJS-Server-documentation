@@ -80,5 +80,11 @@ Rendez vous sur le sous domaine que vous avez créé et si vous voyez ça
 
 ![](../.gitbook/assets/6efowjo-1.png)
 
-C'est que tout est installé correctement ✅
+C'est que tout est installé correctement ✅  
+Il ne vous reste plus qu'a coller le lien de votre sous domaine dans le launcher
+
+{% hint style="info" %}
+En cas de problèmes, n'hésitez pas à demander de l'aide sur le serveur discord de AlternativeAPI   
+Lien: [https://discord.gg/8suwuu](https://discord.gg/8suwuu)
+{% endhint %}
 
