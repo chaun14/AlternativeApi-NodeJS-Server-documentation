@@ -10,7 +10,7 @@ Il semblerait que vote hébergeur n'ai pas installé cette fonctionnalité. Pren
 
 ## Mon launcher dit 403 lors de la récupération d'un .cfg?
 
-Il semblerait que le pare-feu de plesk soit activé et bloque le launcher. Pas de panique, dans la majorité des cas il est désactivable en suivant des étapes ici
+Il semblerait que le pare-feu de plesk soit activé et bloque le launcher. Pas de panique, dans la majorité des cas il est désactivable en suivant des étapes [ici](desactiver-le-pare-feu.md)
 
 
 
